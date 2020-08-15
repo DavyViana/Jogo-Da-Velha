@@ -1,0 +1,15 @@
+.table{
+    justify-content: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+.tr,td{
+    height: 100px;
+    width: 100px;
+    font-size: 100px;
+    border:2px solid;
+    border-color: gray;
+}
+.h5{
+    text-align: center;
+}
